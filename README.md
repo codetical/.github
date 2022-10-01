@@ -1,0 +1,2 @@
+# .github
+Codetical Organization Profile
